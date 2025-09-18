@@ -8,9 +8,9 @@
 - Learn the ethical and legal foundations of ethical hacking.
 - Explore different testing scopes: black-box, white-box, and grey-box.
 - Apply a structured methodology to conduct a basic penetration test.
-- Familiarize with industry frameworks: OSSTMM, OWASP, NIST, and NCSC CAF.
+- Familiarise with industry frameworks: OSSTMM, OWASP, NIST, and NCSC CAF.
 
-#### 🧠 Skills Learned
+#### 🧠 Skills Explored
 - Ethical hacking principles and legal boundaries.
 - Hacker classifications: white hat, grey hat, black hat.
 - Writing and interpreting Rules of Engagement (_ROE_).
@@ -18,14 +18,14 @@
 - Exploitation and privilege escalation strategies.
 - Framework-driven testing approaches.
 
-#### 🛠️ Tools Used
+#### 🛠️ Tools Overview
 - `Nmap` – Network scanning and service enumeration.
 - `Metasploit` – Exploitation and post-exploitation.
 - `Wireshark` – Packet analysis and traffic inspection.
 - `Burp Suite` – Web application testing (_conceptual_).
 - TryHackMe virtual lab – Simulated infrastructure for hands-on practice.
 
-#### 🔄 Steps Taken (Pentesting Methodology)
+#### 🔄 Steps to Remember (Pentesting Methodology)
 1. **Information Gathering** – Passive OSINT and target profiling.
 2. **Enumeration/Scanning** – Identifying open ports and services.
 3. **Exploitation** – Gaining access via vulnerabilities.
@@ -35,6 +35,6 @@
 ---
 
 ### ✅ Summary
-This room introduces the mindset, ethics, and methodology behind penetration testing. Learners gain a structured approach to ethical hacking, supported by real-world tools and frameworks, preparing them for deeper technical labs and certifications.
+This room introduces the mindset, ethics, and methodology behind penetration testing. 
 
 ---
