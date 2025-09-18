@@ -25,7 +25,7 @@
 - `Burp Suite` – Web application testing (_conceptual_).
 - TryHackMe virtual lab – Simulated infrastructure for hands-on practice.
 
-#### 🔄 Steps to Remember (Pentesting Methodology)
+#### 🔄 Steps to Remember (_Pentesting Methodology_)
 1. **Information Gathering** – Passive OSINT and target profiling.
 2. **Enumeration/Scanning** – Identifying open ports and services.
 3. **Exploitation** – Gaining access via vulnerabilities.
