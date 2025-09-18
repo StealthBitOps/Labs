@@ -23,6 +23,6 @@
 
 ---
 ## ✅ Summary
-A foundational intro to ethical hacking—covering mindset, legality, and structured methodology.
+A foundational intro to ethical hacking: Covering mindset, legality, and structured methodology.
 
 ---
